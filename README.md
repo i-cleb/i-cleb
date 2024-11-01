@@ -1,4 +1,4 @@
-- i'm i-cleb, tend to go by cleb or cleb_____ on other platforms
+- i'm cleb
 - currently learning python and javascript, ultimately working towards deeper knowledge in cybersecurity/pentesting
 - i also work in roblox with their luau scripting language for fun
 - i'm a big advocate for data privacy and security, valuing open-source solutions such as grapheneos, grayjay, openstax, etc.
